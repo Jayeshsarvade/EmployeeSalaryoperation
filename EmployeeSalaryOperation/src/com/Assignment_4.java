@@ -1,3 +1,13 @@
+/*
+Create Employee class which contains three instance variable ie id,name,salary and two non static method calculateSalary() and dispalyEmployeeInfo() method. 
+
+In calcualteSalary method you need to declare three local variable as hra, da, and pf 
+And calculate the salary 
+Salary = salary+ 10% hra on salary + 5% da – 7% pf 
+In displayEmployeeInfo method display id,name,salary 
+In main class create t
+*/
+
 package com;
 
 class Employee
